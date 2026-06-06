@@ -3,8 +3,8 @@
 Dự án Digital Portfolio lưu trữ, hệ thống hóa và trình bày các kết quả học tập thực tế cho học phần **Nhập môn Công nghệ số và Ứng dụng Trí tuệ Nhân tạo (VNU1001)**.
 
 ## 📌 Thông tin sinh viên
-- **Họ và tên:** Hoàng Việt Linh
-- **Mã sinh viên:** 25020234
+- **Họ và tên:** Nguyễn Công Minh
+- **Mã sinh viên:** 25020266
 - **Ngành học:** Công nghệ Thông tin
 - **Lớp học:** K70I-IT2
 - **Trường:** Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội (UET - VNU)

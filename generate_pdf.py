@@ -17,7 +17,7 @@ PAGES = [
     "summary.html"
 ]
 
-OUTPUT_NAME = "DigitalPortfolio_25020234_HoangVietLinh.pdf"
+OUTPUT_NAME = "DigitalPortfolio_25020266_NguyenCongMinh.pdf"
 
 def in_virtualenv():
     # Detect if we are running inside our temporary virtualenv
