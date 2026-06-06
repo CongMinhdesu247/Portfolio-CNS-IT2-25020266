@@ -1,4 +1,4 @@
-# Digital Portfolio Cá Nhân - Hoàng Việt Linh
+# Digital Portfolio Cá Nhân - Nguyễn Công Minh
 
 Dự án Digital Portfolio lưu trữ, hệ thống hóa và trình bày các kết quả học tập thực tế cho học phần **Nhập môn Công nghệ số và Ứng dụng Trí tuệ Nhân tạo (VNU1001)**.
 
@@ -29,4 +29,4 @@ Dự án được xây dựng dưới dạng trang web tĩnh, không sử dụng
 ## ⚡ Các tính năng nổi bật
 1. **Thiết kế Bento Grid & Responsive:** Tương thích tốt trên cả máy tính, máy tính bảng và điện thoại di động.
 2. **Hỗ trợ Giao diện Sáng/Tối (Dark/Light Mode):** Tự động đồng bộ và lưu trữ lựa chọn của người dùng qua `localStorage`.
-3. **Mục lục Động:** Giúp điều hướng nội dung bài viết dài dễ dàng trên thanh sidebar.
+3. **Mục lục Động:** Giúp điều hướng nội dung bài viết dài dễ dàng trên thanh sidebar !
