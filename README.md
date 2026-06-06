@@ -22,7 +22,7 @@ Dự án được xây dựng dưới dạng trang web tĩnh, không sử dụng
   - `assets/css/style.css`: Hệ thống CSS responsive & hỗ trợ Dark/Light mode.
   - `assets/js/main.js`: Logic chuyển đổi giao diện và menu điều hướng trên di động.
   - `assets/images/`: Toàn bộ các ảnh minh họa báo cáo và favicon.
-- `docs/`: Thư mục chứa các file báo cáo gốc định dạng Word (`.docx`).
+- `pdf/`: Thư mục chứa các file báo cáo gốc định dạng Word (`.pdf`).
 
 ---
 
